@@ -1,0 +1,3 @@
+[submodule "Angularjs"]
+	path = Angularjs
+	url = https://github.com/amirmsoltani/Angularjs
